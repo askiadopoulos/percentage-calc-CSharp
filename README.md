@@ -1,6 +1,7 @@
 # percentage-calc-CSharp
 
 Project Title: Percentage Calculator in C# and WF
+Technologies Utilized: Microsoft Visual Studio 2017 CE, C#, Windows Forms
 
 Project Description: This is a simple program written in C#, which calculates the net percentage of a number as well as the sum of the initial number plus the percentage number. Its UI has been implemented with Windows Forms and one of the program's features worth mentioning is how it interacts according to user events.
 
